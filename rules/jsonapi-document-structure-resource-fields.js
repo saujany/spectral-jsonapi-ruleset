@@ -5,7 +5,6 @@
 
 import { falsy } from '@stoplight/spectral-functions';
 
-
 export default {
   documentationUrl: 'https://jsonapi.org/format/#document-resource-object-fields',
   rules: {
