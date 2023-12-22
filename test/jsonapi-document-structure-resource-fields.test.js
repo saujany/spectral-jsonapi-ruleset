@@ -27,7 +27,7 @@ describe('resource-object-fields ruleset:', function resourceOobjectFieldsSuite(
   before(function () {
 
     
-     // Access the globally dereferenced document
+    // Access the globally dereferenced document
       dereferenceValidApiDocument = global.dereferencedValidOpenApiDocument;
 
   });
